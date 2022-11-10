@@ -1,54 +1,31 @@
 ---
 template: blog-post
-title: Desk for minimalists
+title: Grand Canyon
 slug: /minimalists-desk
 date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+description: About the Grand Canyon
+featuredImage: https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
 ---
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+The Grand Canyon in Arizona is a natural formation distinguished by layered bands of red rock, revealing millions of years of geological history in cross-section. Vast in scale, the canyon averages 10 miles across and a mile deep along its 277-mile length. Much of the area is a national park, with Colorado River white-water rapids and sweeping vistas.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+![grand-canyon](https://images.unsplash.com/photo-1615551043360-33de8b5f410c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80)
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+The Grand Canyon is a mile-deep gorge in northern Arizona. Scientists estimate the canyon may have formed 5 to 6 million years ago when the Colorado River began to cut a channel through layers of rock. Humans have inhabited the area in and around the canyon since the last Ice Age. The first Europeans to reach the Grand Canyon were Spanish explorers in the 1540s. President Benjamin Harrison first protected the Grand Canyon in 1893 as a forest reserve, and it became an official United States National Park in 1919.
 
-## It doesn't look so shiny to me.
+The Grand Canyon is located in northern Arizona, northwest of the city of Flagstaff. The canyon measures over 270 miles long, up to 18 miles wide and a mile deep, making it one of the biggest canyons in the world.
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+This natural landmark formed about five to six million years as erosion from the Colorado River cut a deep channel through layers of rock.
 
-![]()
+The Grand Canyon contains some of the oldest exposed rock on Earth. The mile-high walls reveal a cross section of Earth’s crust going back nearly two billion years. These rock layers have given geologists the opportunity to study evolution through time.
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+![](https://images.unsplash.com/photo-1578249949606-334a0dd4dd8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
-### Daylight and everything.
+## Grand Canyon Skywalk
+Grand Canyon National Park received about 44,000 visitors when it first opened in 1919. Today, roughly five million people from all over the globe visit the Grand Canyon each year.
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+One recent addition is the Grand Canyon Skywalk, a cantilevered walkway with a glass floor that hangs over a western section of the canyon. The controversial attraction—opponents say it disturbs sacred grounds and is obtrusive in an otherwise pristine area—opened in 2007 and is owned by the Hualapai Tribe.
 
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
+Tourist development in recent years has stressed the canyon’s water resources and threatened Native American sacred sites. The federal government has put limits on the number of river and helicopter trips through the Grand Canyon each year.
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+In 2017, the Navajo Nation rejected on environmental grounds the Grand Canyon Escalade, a major development project that would have included hotels, stores, and a gondola that would have transported visitors from Navajo land to the nearby South Rim of the Grand Canyon.

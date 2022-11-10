@@ -1,10 +1,11 @@
 import defaultColors from "../util/default-colors.json"
 import darkColors from "../util/dark-theme-colors.json"
 import { lightness } from "@theme-ui/color"
+
 const theme = {
   colors: {
     ...defaultColors,
-    text: "#000",
+    text: "#03396c",
     background: "#fff",
     primary: "#5C2941",
     accent: "#fff",

@@ -3,7 +3,7 @@
     "title": "Foundation",
     "titleTemplate": "%s",
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤",
-    "siteUrl": "https://foundation.stackrole.com",
+    "siteUrl": "https://foundationgatsbymain.gatsbyjs.io/",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@dev_lindseyk"

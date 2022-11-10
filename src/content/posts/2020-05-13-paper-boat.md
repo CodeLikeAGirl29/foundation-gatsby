@@ -1,32 +1,16 @@
 ---
 template: blog-post
-title: Character design
+title: Halekala National Park
 slug: /character-design
 date: 2020-05-23 23:40
-description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+description: About Hawaii's National Park
+featuredImage: https://images.unsplash.com/photo-1447710441604-5bdc41bc6517?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=812&q=80
 ---
 
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
+Haleakalā was originally part of Hawaii National Park along with the volcanoes of Mauna Loa and Kilauea on the island of Hawaiʻi, created in 1916. Hawaiʻi Volcanoes National Park was made into a separate national park in 1961 by Bill S. 3623. The park area was designated an International Biosphere Reserve in 1980. The name Haleakalā is Hawaiian for "house of the sun." According to a local legend, the demigod Maui imprisoned the sun here in order to lengthen the day. The Hawaiian National Park Language Correction Act of 2000 was proposed to observe the Hawaiian spelling, but it did not become law.
 
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+The park features the dormant Haleakalā (East Maui) Volcano, which last erupted sometime between 1480 and 1600 AD. The park is divided into two distinct sections: the summit area and the coastal Kipahulu area.
 
-## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+Haleakalā National Park has been a part of the Pacific West Region since its inception in 1961.
 
-Yes! In your face, Gandhi! Ah, yes! John Quincy Adding Machine. He struck a chord with the voters when he pledged not to go on a killing spree. What are their names? I could if you hadn't turned on the light and shut off my stereo.
-
-1. Robot 1-X, save my friends! And Zoidberg!
-2. Soon enough.
-3. There's no part of that sentence I didn't like!
-
-### The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
-
-Why am I sticky and naked? Did I miss something fun? We're also Santa Claus! Soothe us with sweet lies. Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute.
-
-- That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing.
-- We'll need to have a look inside you with this camera.
-- Fry! Quit doing the right thing, you jerk!
-
-Who said that? SURE you can die! You want to die?! Aww, it's true. I've been hiding it for so long. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-
-Spare me your space age technobabble, Attila the Hun! We'll go deliver this crate like professionals, and then we'll go home. Aww, it's true. I've been hiding it for so long. Moving along… Please, Don-Bot… look into your hard drive, and open your mercy file!
+![](https://images.unsplash.com/photo-1583621913946-91a67678ec1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1267&q=80)
