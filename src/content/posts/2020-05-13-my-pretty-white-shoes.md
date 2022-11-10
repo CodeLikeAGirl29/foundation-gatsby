@@ -4,7 +4,7 @@ title: Denali National Park
 slug: /gaming-extravaganza
 date: 2020-05-13 12:55
 description: About Denali in Alaska
-featuredImage: https://images.unsplash.com/flagged/photo-1574945873086-c374f73867ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80
+featuredImage: assets/denali.jpg
 ---
 
 Denali National Park and Preserve encompasses 6 million acres of Alaska’s interior wilderness. Its centerpiece is 20,310-ft.-high Denali (fka Mount McKinley), North America’s tallest peak. With terrain of tundra, spruce forest and glaciers, the park is home to wildlife including grizzly bears, wolves, moose, caribou and Dall sheep. Popular activities in summer include biking, backpacking, hiking and mountaineering. 

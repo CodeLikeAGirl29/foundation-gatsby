@@ -4,7 +4,7 @@ title: Grand Canyon
 slug: /minimalists-desk
 date: 2020-05-13 12:46
 description: About the Grand Canyon
-featuredImage: https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+featuredImage: assets/grandcanyon.jpg
 ---
 
 The Grand Canyon in Arizona is a natural formation distinguished by layered bands of red rock, revealing millions of years of geological history in cross-section. Vast in scale, the canyon averages 10 miles across and a mile deep along its 277-mile length. Much of the area is a national park, with Colorado River white-water rapids and sweeping vistas.
