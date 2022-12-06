@@ -3,7 +3,7 @@
 ---
 
 &nbsp;<a href="https://twitter.com/intent/follow?screen_name=dev_lindseyk">
-<img src="https://img.shields.io/twitter/follow/stackrole.svg?label=Follow%20@Stackrole" alt="Follow @dev_lindseyk" />
+<img src="https://img.shields.io/twitter/follow/stackrole.svg?label=Follow%20@dev_lindseyk" alt="Follow @dev_lindseyk" />
 </a>
 
 # Foundation
@@ -14,7 +14,7 @@ A starter to launch your blazing fast personal website and a blog, Built with [G
 
 Need help launching your website? My DM's are open on <a href="https://twitter.com/dev_lindseyk">twitter</a>
 
-[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-light-mode.jpg)](https://foundation.stackrole.com)
+[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-light-mode.jpg)](https://foundationgatsbymain.gatsbyjs.io/)
 
 ## 👌 Features
 
@@ -39,15 +39,15 @@ Need help launching your website? My DM's are open on <a href="https://twitter.c
 - Invite collaborators into Netlify CMS, without giving access to your Github account via Git Gateway
 - Gatsby Incremental Builds with Netlify.
 
-[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-dark-mode.jpg)](https://foundation.stackrole.com)
+[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-dark-mode.jpg)](https://foundationgatsbymain.gatsbyjs.io/)
 
 ## 🚀 Quick Deploy
 
 Just click on the **Deploy to Netlify** button.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/codelikeagirl29/foundation-gatsby)
 
-This would fork `gatsby-starter-foundation` to your Github account and start building your website on [Netlify](https://netlify.com). Once the deployment is done. Your website will be live and website address would look like **site-name.netlify.app**
+This would fork `foundation-gatsby` to your Github account and start building your website on [Netlify](https://netlify.com). Once the deployment is done. Your website will be live and website address would look like **site-name.netlify.app**
 
 ### Further Instructions
 
@@ -98,7 +98,7 @@ gatsby new gatsby-starter-foundation https://github.com/stackrole/gatsby-starter
 Navigate into your new site’s directory and start it up.
 
 ```shell
-cd my-hello-world-starter/
+cd foundation-gatsby
 gatsby develop
 ```
 
