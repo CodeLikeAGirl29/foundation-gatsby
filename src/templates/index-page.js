@@ -8,9 +8,9 @@ import {
   RiTwitterFill,
   RiLinkedinBoxFill,
   RiYoutubeFill,
-  RiInstagramFill,
+  RiInstagramLine,
   RiRssFill,
-  RiGithubFill,
+  RiGithubLine,
   RiTelegramFill,
   RiPinterestFill,
   RiSnapchatFill,
@@ -109,7 +109,7 @@ const HomePage = ({ data }) => {
         )}
         {icons.icon === "instagram" ? (
           <a href={icons.url} target="_blank" aria-label="link to Instagram" rel="noopener noreferrer">
-            <RiInstagramFill alt="Instagram icon" />
+            <RiInstagramLine alt="Instagram icon" />
           </a>
         ) : (
           ""
@@ -123,7 +123,7 @@ const HomePage = ({ data }) => {
         )}
         {icons.icon === "github" ? (
           <a href={icons.url} target="_blank" aria-label="link to Github" rel="noopener noreferrer">
-            <RiGithubFill alt="Github icon" />
+            <RiGithubLine alt="Github icon" />
           </a>
         ) : (
           ""
