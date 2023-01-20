@@ -10,11 +10,13 @@
 
 A starter to launch your blazing fast personal website and a blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifycms].
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation)
+Interested in learning more about Gatsby? [Here](https://dev.to/codelikeagirl29/gatsbyjs-101-4b3o) is an article I have written about the different parts in a Gatsby project!
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/codelikeagirl29/foundation-gatsby)
 
 Need help launching your website? My DM's are open on <a href="https://twitter.com/dev_lindseyk">twitter</a>
 
-[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-light-mode.jpg)](https://foundationgatsbymain.gatsbyjs.io/)
+[![Foundation Screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1673765436/projects/Foundation_pqhiou.png)](https://main--foundationwithgatsby.netlify.app/)
 
 ## 👌 Features
 
@@ -23,7 +25,7 @@ Need help launching your website? My DM's are open on <a href="https://twitter.c
 - Dark / Light Mode
 - Customize theme color from CMS
 
-    ![gatsby-starter-foundation-dark-mode.jpg](https://media.giphy.com/media/Pb4yImVfcF6MDYuuGm/giphy.gif)
+    ![Dark-Mode](https://res.cloudinary.com/codelikeagirl29/image/upload/v1674174153/projects/Foundation-dark_zoeceg.png)
 
 - Search bar
 - Customize content of Homepage, About and Contact page.
@@ -38,8 +40,6 @@ Need help launching your website? My DM's are open on <a href="https://twitter.c
 - Netlify Contact Form, Works right out of the box after deployment.
 - Invite collaborators into Netlify CMS, without giving access to your Github account via Git Gateway
 - Gatsby Incremental Builds with Netlify.
-
-[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-dark-mode.jpg)](https://foundationgatsbymain.gatsbyjs.io/)
 
 ## 🚀 Quick Deploy
 
@@ -58,7 +58,6 @@ This would fork `foundation-gatsby` to your Github account and start building yo
 - [Install Locally](#install-locally)
 - [Folder Structure](#folder-structure)
 - [Learning Gatsby](#learning-gatsby)
-- [Thank you from Stackrole](#thank-you)
 
 ## ⚙ Access to Netlify CMS
 
@@ -163,14 +162,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 We really appreciate you taking time to build your website with our `gatsby-starter-foundation`.
 
-I would love to get your feedback and contributions.
-
-Feel free to ping [@stackrole](stackrole) for help regarding your JAMstack website, our DM's are open. And do not forget to share you website with me 😊
-
-[![Check out Stackrole.com - A Jamstack marketplace](static/assets/twitter-header.jpg)](https://stackrole.com)
-
 [gatsby]: https://gatsbyjs.org
 [netlifycms]: https://www.netlifycms.org
-[stackrole]: https://stackrole.com
-[twitter]: https://twitter.com/stackrole
-[custom-domain]: https://stackrole.com/adding-custom-domain-netlify
+[lindsey]: https://lindseyk.dev
+[twitter]: https://twitter.com/dev_lindseyk
