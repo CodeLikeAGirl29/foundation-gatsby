@@ -42,7 +42,7 @@ const Contact = ({ data }) => {
         />
         <form
           className="contact-form"
-          action="/thanks"
+          action="https://formspree.io/f/xoqzngno"
           name="contact"
           method="POST"
           data-netlify="true"
