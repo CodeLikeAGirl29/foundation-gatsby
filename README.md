@@ -1,4 +1,6 @@
-> **Update** Foundation is now built with Gatsby V4, this include many performance update
+> **Update** Foundation is now built with Gatsby V4, this include many performance updates!
+
+˗ˏˋ ★ ˎˊ˗
 
 ---
 
@@ -8,38 +10,34 @@
 
 # Foundation
 
-A starter to launch your blazing fast personal website and a blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifycms].
+A starter to launch your blazing fast personal website or blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifycms].
 
 Interested in learning more about Gatsby? [Here](https://dev.to/codelikeagirl29/gatsbyjs-101-4b3o) is an article I have written about the different parts in a Gatsby project!
 
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=foundation-gatsby)
 
-Need help launching your website? My DM's are open on <a href="https://twitter.com/dev_lindseyk">twitter</a>
+> Need help launching your website? ✉️ Email me @ <a href="mailto:lindseykdev@gmail.com">lindseykdev@gmail.com</a>
 
 [![Foundation Screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1673765436/projects/Foundation_pqhiou.png)](https://main--foundationwithgatsby.netlify.app/)
 
 ## 👌 Features
 
-- A Blog and Personal website with Netlify CMS.
-- Responsive Web Design
-- Dark / Light Mode
-- Customize theme color from CMS
-
-    ![Dark-Mode](https://res.cloudinary.com/codelikeagirl29/image/upload/v1674174153/projects/Foundation-dark_zoeceg.png)
-
-- Search bar
-- Customize content of Homepage, About and Contact page.
-- Customize content of Homepage, About and Contact page.
-- Add / Modify / Delete blog posts.
-- Edit website settings, Add Google Analytics and make it your own all with in the CMS.
-- SEO Optimized
-- Social media icons
-- OpenGraph structured data
-- Twitter Cards meta
-- Beautiful XML Sitemaps
-- Netlify Contact Form, Works right out of the box after deployment.
-- Invite collaborators into Netlify CMS, without giving access to your Github account via Git Gateway
-- Gatsby Incremental Builds with Netlify.
+- → A Blog and Personal website with Netlify CMS.
+- → Responsive Web Design
+- → Dark / Light Mode
+- → Customize theme color from CMS
+- → Search bar
+- → Customize content of Homepage, About and Contact page.
+- → Add / Modify / Delete blog posts.
+- → Edit website settings, Add Google Analytics and make it your own all with in the CMS.
+- → SEO Optimized
+- → Social media icons
+- → OpenGraph structured data
+- → Twitter Cards meta
+- → Beautiful XML Sitemaps
+- → Netlify Contact Form, Works right out of the box after deployment.
+- → Invite collaborators into Netlify CMS, without giving access to your Github account via Git Gateway
+- → Gatsby Incremental Builds with Netlify.
 
 ## 🚀 Quick Deploy
 
@@ -47,7 +45,7 @@ Just click on the **Deploy to Netlify** button.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/codelikeagirl29/foundation-gatsby)
 
-This would fork `foundation-gatsby` to your Github account and start building your website on [Netlify](https://netlify.com). Once the deployment is done. Your website will be live and website address would look like **site-name.netlify.app**
+This would fork `foundation-gatsby` to your Github account and start building your website on [Netlify](https://netlify.com). → Once the deployment is done... your website will be live and website address would look like **site-name.netlify.app**
 
 ### Further Instructions
 
@@ -61,12 +59,12 @@ This would fork `foundation-gatsby` to your Github account and start building yo
 
 ## ⚙ Access to Netlify CMS
 
-- Goto app.netlify.com > select your website from the list
-- Goto identity and Click **Enable Identiy**
-- Click on **Invite Users** and invite yourself. You will receive an email and you need to accept the invitation to set the password.
-- Now headover to Settings > Identity > Services and **Enable Git Gateway**
-- You can also manage who can register and log in to your CMS. Goto Settings > Identity > Registration > Registration Preferences. I would prefer to keep it to **Invite Only**, if i am the only one using it.
-- Now, goto to **site-name.netlify.app/admin/**, and login with your credentials.
+- Go to app.netlify.com > select your website from the list
+- Go to identity and Click **Enable Identiy**
+- Click on **Invite Users** and invite yourself. You will receive an email & will need to accept the invitation to set the password.
+- Now head over to Settings > Identity > Services & **Enable Git Gateway**
+- You can also manage who can register and log in to your CMS. Go to Settings > Identity > Registration > Registration Preferences. I would prefer to keep it to **Invite Only**, if i am the only one using it.
+- Now, go  to to **site-name.netlify.app/admin/**, and login with your credentials.
 
 ## 📝 Editing content and Adding posts
 
@@ -92,7 +90,7 @@ gatsby new gatsby-starter-foundation https://github.com/codelikeagirl29/foundati
 
 > You need Node and Gatsby-CLI installed, check out Gatsby [Setup Instructions](https://www.gatsbyjs.org/tutorial/part-zero/)
 
-### Start developing
+### 💻 Start developing
 
 Navigate into your new site’s directory and start it up.
 
