@@ -27,7 +27,7 @@ export default Theme
 const themeStyles = {
   modeOption: {
     button: {
-      fontSize: "25px",
+      fontSize: "1.563rem",
       bg: "transparent",
       border: "none",
       cursor: "pointer",
@@ -45,7 +45,7 @@ const themeStyles = {
     mt: "10px",
   },
   modeText: {
-    fontSize: "16px",
+    fontSize: "1rem",
     display: ["block", "block", "block", "none"],
     p: " 0 10px",
     mt: "-5px",
