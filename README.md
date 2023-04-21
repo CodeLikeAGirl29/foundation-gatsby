@@ -12,7 +12,7 @@ A starter to launch your blazing fast personal website and a blog, Built with [G
 
 Interested in learning more about Gatsby? [Here](https://dev.to/codelikeagirl29/gatsbyjs-101-4b3o) is an article I have written about the different parts in a Gatsby project!
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/codelikeagirl29/foundation-gatsby)
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=foundation-gatsby)
 
 Need help launching your website? My DM's are open on <a href="https://twitter.com/dev_lindseyk">twitter</a>
 
@@ -65,7 +65,7 @@ This would fork `foundation-gatsby` to your Github account and start building yo
 - Goto identity and Click **Enable Identiy**
 - Click on **Invite Users** and invite yourself. You will receive an email and you need to accept the invitation to set the password.
 - Now headover to Settings > Identity > Services and **Enable Git Gateway**
-- You can also manage who can register and log in to your CMS. Goto Settings > Identity > Registration >Registration Preferences. I would prefer to keep it to **Invite Only**, if i am the only one using it.
+- You can also manage who can register and log in to your CMS. Goto Settings > Identity > Registration > Registration Preferences. I would prefer to keep it to **Invite Only**, if i am the only one using it.
 - Now, goto to **site-name.netlify.app/admin/**, and login with your credentials.
 
 ## 📝 Editing content and Adding posts
@@ -84,10 +84,10 @@ We have written a short article on [Custom domain with Netlify website](custom-d
 
 ## 🖥 Install Locally
 
-Use the Gatsby CLI to create a new site, specifying the `gatsby-starter-foundation` starter.
+Use the Gatsby CLI to create a new site, specifying the `foundation-gatsby` starter.
 
 ```bash
-gatsby new gatsby-starter-foundation https://github.com/stackrole/gatsby-starter-foundation
+gatsby new gatsby-starter-foundation https://github.com/codelikeagirl29/foundation-gatsby
 ```
 
 > You need Node and Gatsby-CLI installed, check out Gatsby [Setup Instructions](https://www.gatsbyjs.org/tutorial/part-zero/)
@@ -107,7 +107,7 @@ Your site is now running at `http://localhost:8000`!
 
 _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-Open the `gatsby-starter-foundation` directory in your code editor of choice and edit. Save your changes and the browser will update in real time!
+Open the `foundation-gatsby` directory in your code editor of choice and edit. Save your changes and the browser will update in real time!
 
 You can use Netlify CMS in you local just run `npx netlify-cms-proxy-server` and start run `gatsby develop`
 
@@ -123,7 +123,6 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── gatsby-browser.js
     ├── gatsby-config.js
     ├── gatsby-node.js
-    ├── LICENSE
     ├── package-lock.json
     ├── package.json
     └── README.md
@@ -142,13 +141,13 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
 
-8.  **`LICENSE`**: Gatsby is licensed under the MIT license.
+8.  **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
 
-9.  **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
+9. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
-10. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+10. **`README.md`**: A text file containing useful reference information about your project.
 
-11. **`README.md`**: A text file containing useful reference information about your project.
+---
 
 ## 🎓 Learning Gatsby
 
