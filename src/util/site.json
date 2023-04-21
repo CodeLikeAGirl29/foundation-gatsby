@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Adventures Outdoors",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤",
-    "siteUrl": "https://foundationgatsbymain.gatsbyjs.io/",
+    "description": "A blog featuring the best State Parks from the beautiful USA, Built with Gatsby and Netlify CMS. Made with ❤",
+    "siteUrl": "https://foundation-gatsby.vercel.app/",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@dev_lindseyk"
